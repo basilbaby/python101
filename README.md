@@ -31,7 +31,7 @@ To run the Jupyter Notebooks locally, you need to have Python installed on your 
 
 ```bash
 pip install jupyterlab
-
+```
 
 ## Usage
 
